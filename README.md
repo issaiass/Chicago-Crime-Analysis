@@ -2,7 +2,7 @@
 
 ## Project Motivation
 
-This project is based on the dataset of the Crimes of Chicago from 2001 to Present, based on the Cross-Industry Standard Process of Data Mining (CRISP-DM), the repository answers 3 questions of :
+This project is based on the dataset of the Crimes of Chicago from 2001 to Present, based on the Cross-Industry Standard Process of Data Mining (CRISP-DM), the repository answers 4 questions of:
 
 - Which type of crimes are the mos frequent?  
 - Which are the days that most of the crimes have been done?  
